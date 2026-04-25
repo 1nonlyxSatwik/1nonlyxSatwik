@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Satwik ⚡
+Creative Developer • UI Explorer • Digital Overthinker
 
-<!--
-**1nonlyxSatwik/1nonlyxSatwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building things between code, motion and chaos.
 
-Here are some ideas to get you started:
+## Tech Stack
+React • Next • Framer Motion • Tailwind • Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Building
+🚀 Experimental Portfolios  
+🎨 Interactive Web Experiences  
+🧠 Creative Coding Projects
+
+## Featured Projects
+- Liquid Graphite
+- SatKart
+- Edusity
+
+## GitHub Stats
+(streak cards here)
+
+## Connect
+Portfolio | Twitter | Behance | Dribbble
