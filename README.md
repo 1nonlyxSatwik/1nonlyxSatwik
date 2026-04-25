@@ -91,7 +91,7 @@ Micro interactions, creative interfaces and web toys.
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/1nonlyxSatwik/1nonlyxSatwik/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/1nonlyxSatwik/1nonlyxSatwik/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
