@@ -1,39 +1,51 @@
-<h1 align="center">⚡ Satwik Mani Tripathi</h1>
+<h1 align="center">SATWIK MANI TRIPATHI</h1>
 
 <p align="center">
-Creative Frontend Developer • UI/UX Explorer • Overthinker at 3AM
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3000&center=true&vCenter=true&width=700&lines=Creative+Developer;Frontend+Engineer;Building+Immersive+Web+Experiences" />
 </p>
 
 <p align="center">
-Building immersive digital experiences with code, motion and controlled chaos.
+Creative Developer • UI/UX Explorer • Digital Experimenter
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=1nonlyxsatwik&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+Designing interfaces that move, react and feel alive.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=1nonlyxsatwik&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# ⚡ Manifesto
 
 ```javascript
 const satwik = {
- role: "Creative Frontend Developer",
- currentlyBuilding: "Interactive 3D Designer Portfolio",
+ title: "Creative Frontend Developer",
+ building: "Interactive 3D Portfolio",
  learning: ["Three.js","GSAP","Next.js","Creative Coding"],
  passions: ["UI/UX","Motion","Gaming","Branding"],
- funFact: "Builds portfolios instead of sleeping"
+ mindset: "Code x Design x Motion"
 }
 ```
 
-- 🎓 CSE Student from India  
-- 🎨 Building experimental and immersive web experiences  
-- ⚡ Into motion, interactions and creative coding  
-- 🎮 Gamer, overthinker, movieholic  
+> I don't build websites.  
+> I build experiences.
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 About Me
+
+- 🎓 CSE Student from India  
+- 🎨 Building immersive web experiences  
+- ⚡ Into motion, creative coding and interactions  
+- 🎮 Gamer, Movieholic, Overthinker  
+- 🌙 Usually shipping things at 3AM  
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,nodejs,mongodb,python,cpp,figma,git,github,vscode" />
@@ -41,36 +53,70 @@ const satwik = {
 
 ---
 
-## 🌌 Featured Projects
+# 🚀 Featured Projects
 
-### 🚀 Interactive 3D Portfolio
+### Interactive 3D Portfolio
 Experimental immersive developer portfolio.
 
-### 🎨 Designer Portfolio
+### Designer Portfolio
 Creative frontend portfolio with motion design.
 
-### ⚡ UI Experiments
+### UI Experiments
 Micro interactions, creative interfaces and web toys.
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Metrics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=1nonlyxsatwik&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=1nonlyxsatwik&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=1nonlyxsatwik&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=1nonlyxsatwik&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nonlyxsatwik&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nonlyxsatwik&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1nonlyxsatwik&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/1nonlyxSatwik/1nonlyxSatwik/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🏆 Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=1nonlyxsatwik&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 🌌 Currently Exploring
+
+```yaml
+learning:
+  - Three.js
+  - GSAP Motion
+  - Creative Development
+  - Experimental Interfaces
+```
+
+---
+
+# 🌐 Connect
 
 <p align="center">
 <a href="mailto:manisunita30@gmail.com">
@@ -84,26 +130,10 @@ Micro interactions, creative interfaces and web toys.
 
 ---
 
-## 🎯 Currently Exploring
-
-- Three.js  
-- Creative Development  
-- GSAP Motion  
-- Experimental Interfaces  
-
----
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=1nonlyxsatwik&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-<p align="center">
-I don't build websites.  
-I build experiences.
+Design • Code • Motion
 </p>
 
 <p align="center">
-⚡ Powered by caffeine, overthinking and late night ideas.
+Powered by obsession, late nights and impossible ideas.
 </p>
